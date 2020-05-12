@@ -1,0 +1,6 @@
+C:\Users\slaim\source\repos\CourseProject.BL\bin\Debug\CourseProject.BL.dll
+C:\Users\slaim\source\repos\CourseProject.BL\bin\Debug\CourseProject.BL.pdb
+C:\Users\slaim\source\repos\CourseProject.BL\obj\Debug\CourseProjectBL.csprojAssemblyReference.cache
+C:\Users\slaim\source\repos\CourseProject.BL\obj\Debug\CourseProjectBL.csproj.CoreCompileInputs.cache
+C:\Users\slaim\source\repos\CourseProject.BL\obj\Debug\CourseProject.BL.dll
+C:\Users\slaim\source\repos\CourseProject.BL\obj\Debug\CourseProject.BL.pdb

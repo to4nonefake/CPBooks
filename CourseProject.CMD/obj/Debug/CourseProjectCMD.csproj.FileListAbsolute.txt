@@ -1,0 +1,10 @@
+C:\Users\slaim\source\repos\CourseProject.CMD\bin\Debug\CourseProject.CMD.exe.config
+C:\Users\slaim\source\repos\CourseProject.CMD\bin\Debug\CourseProject.CMD.exe
+C:\Users\slaim\source\repos\CourseProject.CMD\bin\Debug\CourseProject.CMD.pdb
+C:\Users\slaim\source\repos\CourseProject.CMD\bin\Debug\CourseProject.BL.dll
+C:\Users\slaim\source\repos\CourseProject.CMD\bin\Debug\CourseProject.BL.pdb
+C:\Users\slaim\source\repos\CourseProject.CMD\obj\Debug\CourseProjectCMD.csprojAssemblyReference.cache
+C:\Users\slaim\source\repos\CourseProject.CMD\obj\Debug\CourseProjectCMD.csproj.CoreCompileInputs.cache
+C:\Users\slaim\source\repos\CourseProject.CMD\obj\Debug\CourseProjectCMD.csproj.CopyComplete
+C:\Users\slaim\source\repos\CourseProject.CMD\obj\Debug\CourseProject.CMD.exe
+C:\Users\slaim\source\repos\CourseProject.CMD\obj\Debug\CourseProject.CMD.pdb
